@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week4Day5Practice\week4Day5Practice\bin\Debug\week4Day5Practice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week4Day5Practice\week4Day5Practice\bin\Debug\week4Day5Practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week4Day5Practice\week4Day5Practice\bin\Debug\week4Day5Practice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week4Day5Practice\week4Day5Practice\obj\Debug\week4Day5Practice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week4Day5Practice\week4Day5Practice\obj\Debug\week4Day5Practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week4Day5Practice\week4Day5Practice\obj\Debug\week4Day5Practice.pdb
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\week4Day5Practice\week4Day5Practice\bin\Debug\week4Day5Practice.exe.config
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\week4Day5Practice\week4Day5Practice\obj\Debug\week4Day5Practice.exe
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\week4Day5Practice\week4Day5Practice\obj\Debug\week4Day5Practice.pdb
